@@ -1,0 +1,2 @@
+I my cuurent post I will try to highlight using event admin with spring DM.
+By an example, we will send an event inside the osgi container from a notifier bundle and intercept by second subscriber bundle.
